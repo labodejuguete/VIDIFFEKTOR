@@ -1,2 +1,2 @@
 # VIDIFFEKTOR
-https://github.com/labodejuguete/VIDIFFEKTOR/blob/master/vidiffektor.jpg?raw=true
+![alt tag](https://github.com/labodejuguete/VIDIFFEKTOR/blob/master/vidiffektor.jpg?raw=true)
